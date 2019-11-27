@@ -3,7 +3,7 @@ import statistics
 import autocorrect
 from spellchecker import SpellChecker
 
-essay = "Tokenizer's divide strings int lists of substrings. For exaple, divide strings"
+essay = "Tokenizer's divde strings int lists of substrings. For exaple, divide strings"
 
 
 # returns list of misspelled words, corrected errors and the total number of misspelled words
@@ -84,4 +84,4 @@ def syntactic_correctness(sent):
 
 
 # syntactic_correctness(tokenize_sentences(essay)[0][0])
-print(tokenize_words(essay))
+print(tokenize_words(essay))    
