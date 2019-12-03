@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+tensorflow
+pyspellchecker
+scikit-learn
